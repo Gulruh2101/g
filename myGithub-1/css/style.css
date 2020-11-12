@@ -90,6 +90,11 @@ body{
 	margin-left: 15px;
 	width: 250px;
 	height: 100px;
+	color: grey;
+}
+
+.p-text:hover{
+	color: #333;
 }
 
 .parent:hover{
